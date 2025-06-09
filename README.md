@@ -15,7 +15,7 @@ ATLAS_URI=<URL disponibilizada para conexão com o MongoDB Atlas>
 
 ## Docker
 
-No arquivo _Dockerfile_ são instaladas as bibliotecas [FastAPI](https://pypi.org/project/fastapi/), **[pymongo](https://pypi.org/project/pymongo/)** e **[python-dotenv](https://pypi.org/project/python-dotenv/)** 
+No arquivo _Dockerfile_ são instaladas as bibliotecas [FastAPI](https://pypi.org/project/fastapi/), [pymongo](https://pypi.org/project/pymongo/) e [python-dotenv](https://pypi.org/project/python-dotenv/) 
 
 ## Criação de Imagem
 
